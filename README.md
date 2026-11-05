@@ -35,10 +35,6 @@ Modern e-commerce frontend built with React and TypeScript.
 
 ## Screenshots
 
-### Homepage
-![MODEN Homepage](./moden-home.jpeg)
-
-### Product Catalog
 ![MODEN Catalog](./moden-catalog.jpeg)
 
 ## Installation
